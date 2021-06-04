@@ -1,10 +1,10 @@
 //other user end is in  end1 in project day11_june6 
 
-/*#include<stdio.h>
-#include<stdlib.h>
-#include<string.h>
-#include<pthread.h>
-/*struct message
+include<stdio.h>
+include<stdlib.h>
+include<string.h>
+include<pthread.h>
+struct message
 {
 	int size;
 	char msg[256];
@@ -74,4 +74,4 @@ int main()
 	fclose(fWrite);
 	fclose(fRead);
 	system("pause");
-}*/
+}
